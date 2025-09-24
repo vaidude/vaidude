@@ -1,7 +1,7 @@
 WHO AM I 🥷
 # Vaideesh S - Tech Enthusiast
 
-## Yo, I'm Vaideesh S! 
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=600&lines=Yo%2C+I%27m+Vaideesh+S%21;Vibin%27+with+Python%2C+Django+%26+AI;Computer+Eng+Grad+%26+Tech+Geek;Mentoring+Students+%26+Leading+AI%2FFull-Stack+Workshops;Building+Rad+Projects+for+Fun)](https://github.com/DenverCoder1/readme-typing-svg)
