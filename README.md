@@ -1,3 +1,6 @@
+##ABOUT me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=0F6F00&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I%27m+Vaideesh+S;Python+%26+AI+%26+Django+%26+ML;Computer+Engineering+Graduate;Exploring+AI+%26+New+Technologies;Building+Innovative+Projects)](https://github.com/DenverCoder1/readme-typing-svg)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Vaideesh vai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/V_a_i_d_u_d_e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaidude) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Vaidude) 
 
