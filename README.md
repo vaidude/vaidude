@@ -5,7 +5,7 @@ A chill Computer Engineering grad vibing' with Python, Django, AI, and ML. I men
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=650&lines=Yo%2C+I%27m+Vaideesh+S%21;Vibing%27+with+Python%2C+Django+%26+AI;Computer+Eng+Grad+%26+Tech+Geek;Mentor%3A+AI+%26+Full-Stack+Workshops;Building+Rad+Projects+for+Fun)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)][![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/V_a_i_d_u_d_e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaidude) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Vaidude) 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/V_a_i_d_u_d_e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vaidude) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Vaidude) 
 
 
 # 💻 Tech Stack:
